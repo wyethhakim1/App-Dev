@@ -1,5 +1,5 @@
 # App-Dev
 My First Repository
 ________________
-Tiktok
+*Tiktok
 Random video
